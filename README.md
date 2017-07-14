@@ -7,6 +7,7 @@
 - find
 - & wait
 - GNU parallel
+- anonymous fifo / unnamed pipes
 - SSH (needs a server ...)
 
 ## Python
