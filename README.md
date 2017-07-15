@@ -9,6 +9,7 @@
 - GNU parallel
 - anonymous fifo / unnamed pipes
 - SSH (needs a server ...)
+- sed
 
 ## Python
 
