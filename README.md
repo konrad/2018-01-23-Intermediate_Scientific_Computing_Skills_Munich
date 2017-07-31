@@ -22,3 +22,4 @@
 
 - setting up SSH keys
 - merge conflicts
+- pull requests
