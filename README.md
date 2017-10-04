@@ -1,6 +1,5 @@
 # XXX-Intermediate_SWC_Munich
 
-
 ## Shell
 
 - grep
@@ -8,8 +7,8 @@
 - & wait
 - GNU parallel
 - anonymous fifo / unnamed pipes
-- SSH (needs a server ...)
 - sed
+- SSH (needs a server ...)
 
 ## Python
 
@@ -17,6 +16,7 @@
 - Numpy 
 - Matplotlib
 - Seaborn
+- scikit-learn (only simple example: e.g. a PCA)
 
 ## Git
 
