@@ -1,4 +1,4 @@
-# XXX-Intermediate_SWC_Munich
+# Scientific Computing Skills - Intermediate Workshop 
 
 ## Shell
 
