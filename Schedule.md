@@ -11,6 +11,8 @@
 - GNU parallel
 - Text editors
 
+- Session feedback
+
 # Git 
 
 - Repetition of basics ([writing a paper](https://github.com/swcarpentry-wuerzburg/2017-09-04-Software_Carpentry_Wuerzburg_Teaching_Material/blob/master/Git/Git.md))
@@ -23,6 +25,8 @@
   - pull requests
     - quite specific, could be for second day/"leftover time"
     - have everyone write a short comment in a file, open a PR in the same repo
+
+- Session feedback
 
 # Python
 
@@ -52,3 +56,6 @@
  - sckiti-image
    - e.g. [Segmentation](http://www.scipy-lectures.org/packages/scikit-image/#image-segmentation)
  - [OpenCV-Python](https://opencv-python-tutroals.readthedocs.io)
+
+- Session feedback
+
