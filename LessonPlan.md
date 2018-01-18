@@ -1,11 +1,3 @@
-# Pre-survey for participants
-- Rate knowledge in shell/python/git
-- How interested would you be in learning to...
- - plotting
- - git
- - ...
-- Describe specific tasks that you would like to learn
-
 # Lesson plan
 
 ## Shell session
@@ -17,7 +9,6 @@
     - generating files with a range of parameters and run program with them in loop
 - functions in scripts, with arguments
 
-
 - git
   - everyone should have a github account
   - merge conflicts
@@ -26,7 +17,6 @@
   - pull requests
     - quite specific, could be for second day/"leftover time"
     - have everyone write a short comment in a file, open a PR in the same repo
-
 
 - SSH: How to connect to a server
   - could use AWS instances, pre-build image with some processing program loaded onto it
@@ -76,3 +66,7 @@
  
  ### Libraries that are useful for the participants
 - biopython?
+
+## Organizing a project
+
+- [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
