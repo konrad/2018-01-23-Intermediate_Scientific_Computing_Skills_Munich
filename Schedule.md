@@ -7,10 +7,13 @@
 - Shell scripting with funtioncs
 - Organiszing a project
 - mapping with BWA
+- & wait
+- GNU parallel
 
 # Git 
 
 - Repetition - writing a paper
+- setting up SSH keys
 - Collaboratively working 
   - merge conflicts
     - have the second instructor update a github repo, then pull again and show the conflict
@@ -42,5 +45,7 @@
 - scikit-learn
   - PCA (iris data set from sklearn)
 
-- sckiti-image
-  - [Segmen](http://www.scipy-lectures.org/packages/scikit-image/#image-segmentation)
+Image processing
+ - sckiti-image
+   - [Segmen](http://www.scipy-lectures.org/packages/scikit-image/#image-segmentation)
+ - [OpenCV-Python](https://opencv-python-tutroals.readthedocs.io)
