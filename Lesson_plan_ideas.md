@@ -16,7 +16,8 @@
     - have the students produce conflicts in pairs of two
   - pull requests
     - quite specific, could be for second day/"leftover time"
-    - have everyone write a short comment in a file, open a PR in the same repo
+    - have everyone search for some common spelling mistake on GitHub, divvy up the resulting repos & use web interface to automatically fork, branch & start a PR with corrected spelling
+      - example: https://github.com/search?o=desc&q=possilbe&s=indexed&type=Code
 
 - SSH: How to connect to a server
   - could use AWS instances, pre-build image with some processing program loaded onto it
