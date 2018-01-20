@@ -47,6 +47,7 @@
     - grouping/aggregation (e.g. data with numbers for male/female, what is the mean for each group?), pivoting
     - time series
     - plotting
+  - [Pandas_Cheat_Sheet.pdf](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - matplotlib/seaborn
   - scatterplot, lineplot, barplot, histogram
   - how to write functions for plots
