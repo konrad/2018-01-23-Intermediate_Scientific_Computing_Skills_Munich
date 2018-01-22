@@ -33,8 +33,8 @@
 - Repetition of [basics](https://github.com/konrad/2017-03-29-Software_Carpentry_Munich_Teaching_Material/blob/master/Python/Jupyter_notebooks_fresh/SwC_python_session-1.ipynb)
 - Python scripts, REPL, Jupyter notebook
 - Functions (GC calculator)
-- Third libraties vs standadrd libraries
-- PiPy, pip, conda
+- Third-party libraries vs standard libraries
+- PyPI, pip, conda
 - pandas
   - Resources:
     - DC ecology lesson http://www.datacarpentry.org/python-ecology-lesson/
