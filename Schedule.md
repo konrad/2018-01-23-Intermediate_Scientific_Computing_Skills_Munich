@@ -41,6 +41,13 @@
     - importing data http://www.datacarpentry.org/python-ecology-lesson/01-starting-with-data/
     - indexing, slicing: http://www.datacarpentry.org/python-ecology-lesson/02-index-slice-subset/
     - combining data sets: http://www.datacarpentry.org/python-ecology-lesson/04-merging-data/
+	
+  - STRING database
+    - https://stringdb-static.org/download/species.v10.5.txt
+    - https://stringdb-static.org/download/species.mappings.v10.5.txt.gz
+	- https://stringdb-static.org/download/COG.mappings.v10.5.txt.gz
+	- => get the name of the COG attached to the counting of the species "Escherichia coli O157H7 Escherichia coli O157:H7 str. EDL933"
+	
   - important topics:
     - import/export (to/from excel!), indexing, slicing
     - merging
