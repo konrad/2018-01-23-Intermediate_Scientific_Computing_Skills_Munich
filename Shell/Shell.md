@@ -1,5 +1,12 @@
 # Shell
 
+## Write shell scripts using functions and variables
+
+Good article
+regarding
+[defensive shell](http://www.kfirlavi.com/blog/2012/11/14/defensive-bash-programming/) programming.
+
+
 ## Run programs in parallel using for-loops, & and wait
 
 ```
