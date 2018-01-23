@@ -18,8 +18,8 @@
 - [ ] Breaks
 - [ ] Coffee/Tea
 - [ ] Bathroom
-- [ ] The etherpad
-  - http://pad.software-carpentry.org/2018-01-23-Munich
+- [ ] Pad
+  - https://hackmd.io/KYIwhgnAJgTAbCAtKEVEBYpQMyIjdMRcAYxAFYIAGKAM3KuyA===#
   -  Short URL: http://bit.ly/2BjQdvw
   - Exercise - add your name to the list of participants
 - [ ] Motivation / Aim
