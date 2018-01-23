@@ -20,7 +20,7 @@
 - [ ] Bathroom
 - [ ] Pad
   - https://hackmd.io/KYIwhgnAJgTAbCAtKEVEBYpQMyIjdMRcAYxAFYIAGKAM3KuyA===#
-  -  Short URL: http://bit.ly/2BjQdvw
+  -  Short URL: http://bit.ly/2DzbXcA
   - Exercise - add your name to the list of participants
 - [ ] Motivation / Aim
   - Automation
