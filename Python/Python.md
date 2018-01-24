@@ -79,6 +79,9 @@ Check out the example galleries
 - Is the backend behind seaborn
 - Wide variety of plots possible
 
+## Machine learning: scikit-learn
+- [Iris data set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+
 
 ## Further useful Python libraries
 
