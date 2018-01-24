@@ -5,7 +5,7 @@
 - This is short introduction to unstand classes and object mainly to
   understand how they are used later in packages like pandas.
 
-- See Jupyter Notebook
+- See Jupyter Notebook `Classes_introduction.ipynb`
 
 ## Writing your own modules
 
@@ -49,3 +49,9 @@ see Jupyter notebook
 - OpenRefine
 - [Tidy data paper](http://vita.had.co.nz/papers/tidy-data.html)
 - [Data organization in spreadsheets](https://peerj.com/preprints/3183/)
+
+## Hint to avoid confusion - methods of Series and Dataframes
+
+- some methods are implemented for Serie and for Dataframes e.g. apply
+  - [pandas.DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
+  - [Series.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.apply.html)
