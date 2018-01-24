@@ -25,6 +25,8 @@ find . -name "*xml" | xargs -n 1 -P 4 bash long_lasting_analysis.sh
 
 ## Use sed to replace strings
 
+- [sed documentation](https://www.gnu.org/software/sed/manual/sed.html)
+
 Original content of the test file:
 
 ```
