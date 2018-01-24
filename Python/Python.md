@@ -90,7 +90,7 @@ Check out the example galleries
 - scikit-bio
 - numpy
 - scipy
-- statsmodel
+- statsmodels
 
 ## Python IDEs (Selection)
 - PyCharm
