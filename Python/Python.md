@@ -30,3 +30,22 @@
 
 see Jupyter notebook
 
+## Question: How to deal with huge files in pandas
+
+- run it on a machine with more RAM (e.g. see below - run it on a server)
+- read the file in [chunks](https://stackoverflow.com/questions/25699439/how-to-iterate-over-consecutive-chunks-of-pandas-dataframe-efficiently)
+- if possible use numpy instead
+- if possible read the data into an SQL data base and access that from pandas
+
+## Question: Can I run Jupyter on a server
+
+- Yes [you can](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)!
+- Maybe [port forward](https://www.ssh.com/ssh/tunneling/example) is needed
+
+## Question: How to clean data
+
+- maybe in pandas
+- maybe before e.g. with sed in the Shell
+- OpenRefine
+- [Tidy data paper](http://vita.had.co.nz/papers/tidy-data.html)
+- [Data organization in spreadsheets](https://peerj.com/preprints/3183/)
