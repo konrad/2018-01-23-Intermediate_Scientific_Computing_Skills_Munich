@@ -5,6 +5,10 @@
 - Instructors: Florian Thöle & Konrad Förstner
 - Helper: Anja Mösch
 
+## Installation instructions
+
+- Installation instructions can be found [here](https://konrad.github.io/2018-01-23-Intermediate_Scientific_Computing_Skills_Munich/installation.html)
+
 ## Schedule 
 
 ### Introduction
