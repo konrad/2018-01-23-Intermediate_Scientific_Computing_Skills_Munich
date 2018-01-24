@@ -55,7 +55,7 @@
 
 - maybe in pandas
 - maybe before e.g. with sed in the Shell
-- OpenRefine
+- [OpenRefine](http://openrefine.org/)
 - [Tidy data paper](http://vita.had.co.nz/papers/tidy-data.html)
 - [Data organization in spreadsheets](https://peerj.com/preprints/3183/)
 
@@ -81,6 +81,7 @@ Check out the example galleries
 
 ## Machine learning: scikit-learn
 - [Iris data set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
+- See [Jupyter notebook]()
 
 
 ## Further useful Python libraries
