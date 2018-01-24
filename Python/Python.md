@@ -63,6 +63,10 @@
   - [pandas.DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
   - [Series.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.apply.html)
 
+## Visualizing data with matplotlib and seaborn
+
+
+
 ## Further useful Python libraries
 
 - Biopython
