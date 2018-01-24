@@ -1,5 +1,9 @@
 # Python
 
+## Repetition of basics
+
+- See Jupyter Notebooks `XXX`
+
 ## Object oriented programming
 
 - This is short introduction to unstand classes and object mainly to
@@ -58,3 +62,27 @@
 - some methods are implemented for Serie and for Dataframes e.g. apply
   - [pandas.DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
   - [Series.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.apply.html)
+
+## Further useful Python libraries
+
+- Biopython
+- scikit-bio
+- numpy
+- scipy
+- statsmodel
+
+## Python IDEs (Selection)
+- PyCharm
+- Emacs (+ elpy)
+- vim
+- spyder
+- Atom
+- Sublime
+- Jupyter Lab
+- [VIM](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
+
+### Useful IDE Features
+- syntax highlighting
+- autocompletion
+- git integration
+- remote working
