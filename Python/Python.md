@@ -81,6 +81,7 @@ $ python dna_analysis.py
 - [pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
  - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) / [TSV](https://en.wikipedia.org/wiki/Tab-separated_values)
  - Using "!" in jupyter to call Shell commands
+- merging table - [visualisation of the join types](https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-join-left-join-right-join-and-full-join/6188334)
 
 ### Question: How to deal with huge files in pandas
 
