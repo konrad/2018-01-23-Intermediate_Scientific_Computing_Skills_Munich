@@ -22,7 +22,7 @@
 ## PEP 8 - coding style
 
 - Style recommendation how to write your
-  code: 
+  code:
   [PEP 8](https://www.python.org/dev/peps/pep-0008/#maximum-line-length)
 - Most IDEs are supporting this an will highlight violations of these
   recommendations
@@ -64,6 +64,21 @@
 - some methods are implemented for Serie and for Dataframes e.g. apply
   - [pandas.DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
   - [Series.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.apply.html)
+
+## Visualization
+Check out the example galleries
+### [Seaborn](https://seaborn.pydata.org/)
+- For statistical plots
+- Very high-level interface
+- Allows fast production of nice-looking plots
+- Good integration with pandas
+
+### [Matplotlib](https://matplotlib.org/)
+- Allows very fine control over plots
+- Takes a bit more effort to produce complex plots
+- Is the backend behind seaborn
+- Wide variety of plots possible
+
 
 ## Further useful Python libraries
 
