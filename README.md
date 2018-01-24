@@ -1,6 +1,6 @@
 # Scientific Computing Skills - Intermediate Workshop 
 
-- Date: 2017-01-23 and 2017-01-24, 9:00 - 16:30
+- Date: 2018-01-23 and 2018-01-24, 9:00 - 16:00
 - Location: Graduiertenzentrum Weihenstephan, Technische Universität München, Alte Akademie 8a, 85354 Freising
 - Instructors: Florian Thöle & Konrad Förstner
 - Helper: Anja Mösch
