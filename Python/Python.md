@@ -2,14 +2,14 @@
 
 ## Repetition of basics
 
-- See Jupyter Notebooks `XXX`
+- See Jupyter Notebooks from [previous course](https://github.com/konrad/2017-03-29-Software_Carpentry_Munich_Teaching_Material/tree/master/Python/)
 
 ## Object oriented programming
 
-- This is short introduction to unstand classes and object mainly to
+- This is short introduction to understand classes and objects; the main goal is to
   understand how they are used later in packages like pandas.
 
-- See Jupyter Notebook `Classes_introduction.ipynb`
+- See Jupyter Notebook [Classes_introduction.ipynb](https://github.com/konrad/2018-01-23-Intermediate_Scientific_Computing_Skills_Munich/blob/master/Python/Classes_introduction.ipynb)
 
 ## Writing your own modules
 
