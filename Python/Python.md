@@ -13,7 +13,50 @@
 
 ## Writing your own modules
 
+Write a file called `dnahelplib.py`
 
+```
+def count_c_and_g(seq):
+    return seq.count("C") + seq.count("G")
+```
+
+This is an example of a very simple module with a single, simple
+function. This can now be importet in a Python script. For this
+generate a file named `dna_analysis.py`` with following content
+
+
+```
+import dnahelplib
+
+def main():
+    print("* Analysis of DNA")
+    print(dnahelplib.count_c_and_g("ACACACAGGAGAGGTTTT"))	
+    print(dnahelplib.count_c_and_g("TATATGTAGTATTAGATA"))
+    
+main()
+```
+
+The function can also be imported in the following manner.
+
+```
+from dnahelplib import count_c_and_g
+
+def main():
+    print("* Analysis of DNA")
+    print(count_c_and_g("ACACACAGGAGAGGTTTT"))	
+    print(count_c_and_g("TATATGTAGTATTAGATA"))
+    
+main()
+```
+
+Call the script
+
+```
+$ python dna_analysis.py
+* Analysis of DNA
+8
+3
+```
 
 ## argparse - Adding nice command line interfaces to pyhton scripts
 
@@ -66,7 +109,11 @@
   - [Series.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.apply.html)
 
 ## Visualization
+
 Check out the example galleries
+of [seaborn](https://seaborn.pydata.org/examples/index.html)
+and [matplotlib](https://matplotlib.org/gallery/index.html).
+
 ### [Seaborn](https://seaborn.pydata.org/)
 - For statistical plots
 - Very high-level interface
@@ -81,10 +128,9 @@ Check out the example galleries
 
 ## Machine learning: scikit-learn
 - [Iris data set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data)
-- See [Jupyter notebook]()
+- See Jupyter notebook [PCA_with_scikit-learn.ipynb](https://github.com/konrad/2018-01-23-Intermediate_Scientific_Computing_Skills_Munich/blob/master/Python/PCA_with_scikit-learn.ipynb)
 
 ## Further useful Python libraries
-
 - Biopython
 - scikit-bio
 - numpy
@@ -93,7 +139,7 @@ Check out the example galleries
 
 ## Python IDEs (Selection)
 - PyCharm
-- Emacs (+ elpy)
+- Emacs (+ [elpy](https://github.com/jorgenschaefer/elpy))
 - vim
 - spyder
 - Atom
