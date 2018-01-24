@@ -31,7 +31,7 @@
 ## Pandas
 
 - see Jupyter notebook `pandas_ecology_introduction.ipynb`
-- [](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- [pandas cheet sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
 ### Question: How to deal with huge files in pandas
 
