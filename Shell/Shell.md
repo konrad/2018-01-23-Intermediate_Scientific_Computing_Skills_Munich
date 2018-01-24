@@ -23,6 +23,9 @@ wait
 find . -name "*xml" | xargs -n 1 -P 4 bash long_lasting_analysis.sh
 ```
 
+- `-n` - number arguments used per command
+- `P` - number or processes run in parallel
+
 ## Use sed to replace strings
 
 - [sed documentation](https://www.gnu.org/software/sed/manual/sed.html)
