@@ -34,8 +34,10 @@
 
 ## Pandas
 
-- see Jupyter notebook `pandas_ecology_introduction.ipynb`
-- [pandas cheet sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- see Jupyter notebook `pandas_ecology_introduction.ipynb`, taken from http://www.datacarpentry.org/python-ecology-lesson/
+- [pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+ - [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) / [TSV](https://en.wikipedia.org/wiki/Tab-separated_values)
+ - Using "!" in jupyter to call Shell commands
 
 ### Question: How to deal with huge files in pandas
 
