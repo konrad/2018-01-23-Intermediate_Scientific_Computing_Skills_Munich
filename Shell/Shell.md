@@ -82,3 +82,7 @@ rudolf
 2012-11-07,rabbit
 2012-11-07,bear
 ```
+
+## Structuring you project
+
+- [A Quick Guide to Organizing Computational Biology Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
