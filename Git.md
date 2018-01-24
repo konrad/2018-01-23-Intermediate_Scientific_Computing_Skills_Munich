@@ -8,3 +8,18 @@
 
 - Github is an online platform that shows git repositories
 - Gitlab: private servers
+
+## Core commands:
+
+### Starting a repository
+- git init
+
+### Working with commits 
+- git add 
+- git commit
+- git log
+- git diff
+
+### Working with remote repos
+- git pull
+- git push
