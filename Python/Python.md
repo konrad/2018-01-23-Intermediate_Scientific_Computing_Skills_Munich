@@ -9,6 +9,8 @@
 
 ## Writing your own modules
 
+
+
 ## argparse - Adding nice command line interfaces to pyhton scripts
 
 - [argparse documentation](https://docs.python.org/3/library/argparse.html)
@@ -21,28 +23,29 @@
 - Most IDEs are supporting this an will highlight violations of these
   recommendations
 
-## Documentation
+## Python documentation in the command line
 
 - the shell tool `pydoc`
   - e.g. `pydoc argparse`
 
 ## Pandas
 
-see Jupyter notebook
+- see Jupyter notebook `pandas_ecology_introduction.ipynb`
+- [](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
-## Question: How to deal with huge files in pandas
+### Question: How to deal with huge files in pandas
 
 - run it on a machine with more RAM (e.g. see below - run it on a server)
 - read the file in [chunks](https://stackoverflow.com/questions/25699439/how-to-iterate-over-consecutive-chunks-of-pandas-dataframe-efficiently)
 - if possible use numpy instead
 - if possible read the data into an SQL data base and access that from pandas
 
-## Question: Can I run Jupyter on a server
+### Question: Can I run Jupyter on a server
 
 - Yes [you can](https://jupyter-notebook.readthedocs.io/en/stable/public_server.html)!
 - Maybe [port forward](https://www.ssh.com/ssh/tunneling/example) is needed
 
-## Question: How to clean data
+### Question: How to clean data
 
 - maybe in pandas
 - maybe before e.g. with sed in the Shell
@@ -50,7 +53,7 @@ see Jupyter notebook
 - [Tidy data paper](http://vita.had.co.nz/papers/tidy-data.html)
 - [Data organization in spreadsheets](https://peerj.com/preprints/3183/)
 
-## Hint to avoid confusion - methods of Series and Dataframes
+### Hint to avoid confusion - methods of Series and Dataframes
 
 - some methods are implemented for Serie and for Dataframes e.g. apply
   - [pandas.DataFrame.apply](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
